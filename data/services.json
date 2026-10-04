@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development",
+        "description": "Membangun dan mengembangkan website sederhana menggunakan HTML, CSS, dan Bootstrap.",
+        "icon": "bi bi-code-slash",
+        "tags": ["HTML", "CSS", "Bootstrap"]
+    },
+    {
+        "id": 2,
+        "title": "Data Analytics",
+        "description": "Mengolah dan menganalisis data menggunakan tools dan bahasa pemrograman yang dipelajari selama perkuliahan.",
+        "icon": "bi bi-bar-chart-line",
+        "tags": ["Python", "SQL", "Data Analysis"]
+    },
+    {
+        "id": 3,
+        "title": "UI/UX Design",
+        "description": "Membuat rancangan antarmuka dan prototype aplikasi dengan memperhatikan kebutuhan pengguna.",
+        "icon": "bi bi-palette",
+        "tags": ["Figma", "UI Design", "Prototype"]
+    }
+]

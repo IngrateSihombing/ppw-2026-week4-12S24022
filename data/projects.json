@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Portfolio Website",
+        "description": "Website portfolio pribadi yang dibuat menggunakan HTML, CSS, dan Bootstrap sebagai tugas Praktikum Pengembangan Pemrograman Web.",
+        "category": "Web Development",
+        "metrics": "Responsive Portfolio Website",
+        "tags": ["HTML", "CSS", "Bootstrap"],
+        "image": "images/foto-joy.jpg",
+        "link": "#"
+    },
+    {
+        "id": 2,
+        "title": "Budget Planner Mahasiswa",
+        "description": "Konsep aplikasi sederhana untuk membantu mahasiswa mencatat pengeluaran harian dan mengelola anggaran bulanan.",
+        "category": "UI/UX",
+        "metrics": "Student Budget Management",
+        "tags": ["UI Design", "Planning"],
+        "image": "images/foto-joy.jpg",
+        "link": "#"
+    },
+    {
+        "id": 3,
+        "title": "SQL Server Database",
+        "description": "Proyek praktikum database yang mencakup pembuatan query, relasi tabel, dan pengolahan database menggunakan SQL Server.",
+        "category": "Database",
+        "metrics": "Database Query & Relational Data",
+        "tags": ["SQL", "SQL Server", "Database"],
+        "image": "images/foto-joy.jpg",
+        "link": "#"
+    },
+    {
+        "id": 4,
+        "title": "Natural Images Classification",
+        "description": "Proyek klasifikasi citra natural menggunakan pipeline machine learning untuk melakukan preprocessing data dan klasifikasi gambar.",
+        "category": "Data Analytics",
+        "metrics": "Image Classification",
+        "tags": ["Python", "Machine Learning", "Data Analysis"],
+        "image": "images/foto-joy.jpg",
+        "link": "#"
+    }
+]
